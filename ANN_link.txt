@@ -1,0 +1,2 @@
+If the Final_Project_ANN.ipynb does not work after downloading, please use the link below to view the Colab notebook for the code:   
+https://colab.research.google.com/drive/11E1zjoC0ASWlT5LYBgZAryl5RwBe6V5t?usp=sharing
